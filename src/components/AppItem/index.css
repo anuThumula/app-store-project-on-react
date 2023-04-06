@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.app-items {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 11px;
+  width: 120px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 10px;
+  padding-top: 15px;
+}
+
+.app-img {
+  width: 70px;
+  height: 70px;
+}
+
+.para {
+  color: #1e293b;
+  font-family: Bree Serif;
+  font-size: 15px;
+}
